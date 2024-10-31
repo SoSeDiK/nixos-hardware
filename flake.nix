@@ -157,6 +157,9 @@
         lenovo-ideapad-s145-15api = import ./lenovo/ideapad/s145-15api;
         lenovo-legion-15ach6 = import ./lenovo/legion/15ach6;
         lenovo-legion-15ach6h = import ./lenovo/legion/15ach6h;
+        lenovo-legion-15arh05-amd = import ./lenovo/legion/15arh05/amd;
+        lenovo-legion-15arh05-hybrid = import ./lenovo/legion/15arh05/hybrid;
+        lenovo-legion-15arh05-nvidia = import ./lenovo/legion/15arh05/nvidia;
         lenovo-legion-15arh05h = import ./lenovo/legion/15arh05h;
         lenovo-legion-16ach6h = import ./lenovo/legion/16ach6h;
         lenovo-legion-16ach6h-hybrid = import ./lenovo/legion/16ach6h/hybrid;
