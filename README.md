@@ -362,6 +362,7 @@ See code for all available configurations.
 | [Microsoft Surface Range (Common Modules)](microsoft/surface/common)              | `<nixos-hardware/microsoft/surface/common>`             | `microsoft-surface-common`        |
 | [Microsoft Surface Pro 3](microsoft/surface-pro/3)                                | `<nixos-hardware/microsoft/surface-pro/3>`              | `microsoft-surface-pro-3`         |
 | [Microsoft Surface Pro 9](microsoft/surface-pro/9)                                | `<nixos-hardware/microsoft/surface-pro/9>`              | `microsoft-surface-pro-9`         |
+| [Microsoft Surface Book 3](microsoft/surface-book/3)                              | `<nixos-hardware/microsoft/surface-book/3>`             | `microsoft-surface-book-3`        |
 | [Morefine M600](morefine/m600)                                                    | `<nixos-hardware/morefine/m600>`                        | `morefine-m600`                  |
 | [Minisforum V3](minisforum/v3)                                                    | `<nixos-hardware/minisforum/v3>`                        | `minisforum-v3`                  |
 | [NXP iMX8 MPlus Evaluation Kit](nxp/imx8mp-evk)                                   | `<nixos-hardware/nxp/imx8mp-evk>`                       | `nxp-imx8mp-evk`                 |

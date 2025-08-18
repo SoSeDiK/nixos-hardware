@@ -297,6 +297,7 @@
           microsoft-surface-common = import ./microsoft/surface/common;
           microsoft-surface-pro-3 = import ./microsoft/surface-pro/3;
           microsoft-surface-pro-9 = import ./microsoft/surface-pro/9;
+          microsoft-surface-book-3 = import ./microsoft/surface-book/3;
           milkv-pioneer = import ./milkv/pioneer;
           minisforum-v3 = import ./minisforum/v3;
           morefine-m600 = import ./morefine/m600;
